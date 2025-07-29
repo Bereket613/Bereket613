@@ -1,7 +1,6 @@
-👋 Hi, I’m Bereket
+## 👋 Hi, I’m Bereket Getaw
 
-- 👀 I’m interested in Data Science, AI, Machine Learning, and Frontend Web Development  
-- 🌱 I’m currently learning NLP, AI model building, and improving my skills in React & Node.js  
-- 💞️ I’m looking to collaborate on open-source ML projects, data-driven apps, and AI-based tools  
-- 📫 How to reach me: https://www.linkedin.com/in/bereket-getaw-904857323/ | bereketgetaw613@gmail.com  
-- ⚡ Fun fact: I trained a Rock-Paper-Scissors bot to beat humans more than 60% of the time 🤖✌️
+🎯 Passionate about **Data Science**, **AI**, and **Frontend Web Development**  
+🌱 Currently diving into **NLP**, **AI model building**, and refining my **React + Node.js** skills  
+🤝 Open to collaboration on **machine learning apps**, **open-source AI tools**, and **data-driven projects**  
+📬 Reach me via [LinkedIn](https://www.linkedin.com/in/bereket-getaw-904857323/) or **bereketgetaw613@gmail.com**
