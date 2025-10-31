@@ -1,17 +1,7 @@
-<!-- Animated Header -->
+<!-- Clean Header -->
 <h1 align="center">
   👋 Hi, I'm <a href="https://www.linkedin.com/in/bereket-getaw-904857323/" target="_blank">Bereket Getaw</a>  
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+AI+Engineer;Frontend+Developer+%7C+ML+Researcher;Passionate+about+AI+%26+Data+Storytelling" alt="Typing Animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVhMGlnY3ViZTk3M2V3bWJtbHdtY3B4eDJ4OTQxN3A5ejg3bjdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding Animation" />
-</p>
 
 ---
 
